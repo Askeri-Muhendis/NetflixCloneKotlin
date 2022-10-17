@@ -6,4 +6,6 @@
     </style>
 
     <style name="Theme.NetflixCloneKotlin" parent="Base.Theme.NetflixCloneKotlin" />
+
+
 </resources>
