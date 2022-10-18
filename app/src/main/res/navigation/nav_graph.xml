@@ -3,10 +3,10 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/nav_graph"
-    app:startDestination="@id/splashFragment">
+    app:startDestination="@id/onBoardingFragment">
     <fragment
-        android:id="@+id/splashFragment"
-        android:name="com.ibrahimethemsen.netflixclonekotlin.presentation.ui.splash.SplashFragment"
-        android:label="fragment_splash"
-        tools:layout="@layout/fragment_splash" />
+        android:id="@+id/onBoardingFragment"
+        android:name="com.ibrahimethemsen.netflixclonekotlin.presentation.ui.onboarding.OnBoardingFragment"
+        android:label="fragment_on_boarding"
+        tools:layout="@layout/fragment_on_boarding" />
 </navigation>

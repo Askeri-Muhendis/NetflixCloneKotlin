@@ -2,4 +2,7 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="netflix_red">#e50914</color>
+    <color name="onboarding_tab_selected_indicator">#f1f4e8</color>
+    <color name="onboarding_tab_default_indicator">#8f8f8f</color>
 </resources>
