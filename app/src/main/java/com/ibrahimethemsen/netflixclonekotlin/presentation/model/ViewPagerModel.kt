@@ -6,7 +6,7 @@ import kotlinx.parcelize.Parcelize
 
 @Parcelize
 data class ViewPagerModel(
-    @DrawableRes val viewPagerBackground : Int,
-    val viewPagerTitle : String,
-    val viewPagerSubTitle : String
+    @DrawableRes val viewPagerBackground: Int,
+    val viewPagerTitle: String,
+    val viewPagerSubTitle: String
 ) : Parcelable

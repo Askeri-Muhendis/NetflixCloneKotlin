@@ -32,6 +32,6 @@ class ViewPagerItemFragment : Fragment(R.layout.fragment_view_pager_item) {
                 binding.viewPagerItemSubTitle.text = it.viewPagerSubTitle
             }
         }
-
     }
+
 }

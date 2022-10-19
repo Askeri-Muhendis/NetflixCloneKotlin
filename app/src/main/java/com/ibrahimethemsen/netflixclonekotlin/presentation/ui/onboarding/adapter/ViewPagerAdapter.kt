@@ -1,9 +1,10 @@
-package com.ibrahimethemsen.netflixclonekotlin.presentation.ui.onboarding
+package com.ibrahimethemsen.netflixclonekotlin.presentation.ui.onboarding.adapter
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
 import androidx.viewpager2.adapter.FragmentStateAdapter
 import com.ibrahimethemsen.netflixclonekotlin.presentation.model.ViewPagerModel
+import com.ibrahimethemsen.netflixclonekotlin.presentation.ui.onboarding.ViewPagerItemFragment
 import com.ibrahimethemsen.netflixclonekotlin.utility.Constants.ONBOARDING_VIEWPAGER
 
 class ViewPagerAdapter(

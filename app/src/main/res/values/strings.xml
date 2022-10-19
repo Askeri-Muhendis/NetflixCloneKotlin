@@ -10,4 +10,18 @@
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="viewpager_title_txt"><b><big>Sınırsız film,\ndizi ve çok\ndaha fazlası</big></b></string>
+    <string name="viewpager_subtitle_txt">İstediğiniz her yerden izleyin.\nİstediğiniz zaman iptal edebilirsiniz.</string>
+    <string name="viewpager_title_one_txt"><b><big>İndirin ve\nçevrimdışı izleyin</big></b></string>
+    <string name="viewpager_subtitle_one_txt">Her zaman çevrimdışı\nizleyecek bir şeyleriniz olsun.</string>
+    <string name="viewpager_title_two_txt"><b><big>Eğlence çok,\ntaahhüt yok</big></b></string>
+    <string name="viewpager_subtitle_two_txt">Bugün katılın,istediğiniz\nzaman iptal edin.</string>
+    <string name="viewpager_title_three_txt"><b><big>İstediğiniz her\nyerde izleyin</big></b></string>
+    <string name="viewpager_subtitle_three_txt">Telefonda,tablette,dizüstü\nbilgisayarda,televizyonda ve daha …</string>
+    <string name="sign_in">Oturum Aç</string>
+    <string name="privacy">Gizlilik</string>
+    <string name="start_watching">İZLEMEYE BAŞLA</string>
+    <string name="image_txt">icon</string>
+    <string name="bottom_sheet_sss">Sıkça Sorulan Sorular</string>
 </resources>
